@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "axios": "^0.25.0"
+  },
+  "name": "zenithmmo",
+  "description": "Installation:",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wiresboy-exe/zenithAPI.git"
+  },
+  "keywords": [
+    "zenith",
+    "rpg",
+    "api",
+    "wrapper"
+  ],
+  "author": "Phaze#6193",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wiresboy-exe/zenithAPI/issues"
+  },
+  "homepage": "https://github.com/wiresboy-exe/zenithAPI#readme"
+}
