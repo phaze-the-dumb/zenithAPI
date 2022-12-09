@@ -1,13 +1,13 @@
 Installation:
 
 ```
-npm i zenithmmo
+npm i zenithapi
 ```
 
 Authenticating: 
 
 ```js
-const zenith = require('zenithmmo');
+const zenith = require('zenithapi');
 
 let user = new zenith.Client('Username', 'Password');
 
